@@ -4,6 +4,6 @@ variable "region" {
 
 variable "ami_id" {
   default = {
-     us-east-1    = "ami-0230bd60aa48260c6"
+     us-east-1    = "ami-06aa3f7caf3a30282"
   }
 }
